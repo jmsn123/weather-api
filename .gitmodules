@@ -1,0 +1,3 @@
+[submodule "weatherApi"]
+	path = weatherApi
+	url = git@github.com:jmsn123/weatherApi
